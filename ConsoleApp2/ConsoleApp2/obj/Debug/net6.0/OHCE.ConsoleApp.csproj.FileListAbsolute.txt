@@ -1,0 +1,26 @@
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.AssemblyInfo.cs
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\OHCE.ConsoleApp.exe
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\OHCE.ConsoleApp.deps.json
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\OHCE.ConsoleApp.runtimeconfig.json
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\OHCE.ConsoleApp.dll
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\OHCE.ConsoleApp.pdb
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\OHCE.dll
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\OHCE.pdb
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.csproj.CopyComplete
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.dll
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\OHCE.ConsoleApp.dll
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.pdb
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.genruntimeconfig.cache
+C:\Users\tchol\Desktop\EPSI\B3\Tests et industrialisation\Projet VS\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\OHCE.ConsoleApp.dll
+C:\Users\tchol\source\repos\Solution1\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\tchol\source\repos\Solution1\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tchol\source\repos\Solution1\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\tchol\source\repos\Solution1\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.AssemblyInfo.cs
+C:\Users\tchol\source\repos\Solution1\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\tchol\source\repos\Solution1\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.dll
+C:\Users\tchol\source\repos\Solution1\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\OHCE.ConsoleApp.dll
+C:\Users\tchol\source\repos\Solution1\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\OHCE.ConsoleApp.pdb
